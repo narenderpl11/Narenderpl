@@ -1,5 +1,3 @@
-test 
-tsts
-stes
-
-added one comptech
+x=10
+y=22
+print(x+y)
